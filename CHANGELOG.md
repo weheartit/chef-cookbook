@@ -1,5 +1,7 @@
 # Change Log
 
+## [4.9.1] changed nodename to rabbitmq_nodename
+
 ## [4.9.0](https://github.com/rabbitmq/chef-cookbook/tree/v4.9.0) (2016-08-02)
 
 [Full Changelog](https://github.com/rabbitmq/chef-cookbook/compare/v4.8.0...v4.9.0)
